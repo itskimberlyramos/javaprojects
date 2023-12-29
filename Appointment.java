@@ -1,6 +1,7 @@
 /* Appointment.java - Class that creates and manages appointments
  * @author Kimberly Ramos
  * @date 27-Dec-23
+ * project
  */
 public class Appointment { // superclass
 	private String description;
